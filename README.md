@@ -2,6 +2,10 @@
 
 Mostly there are notes from university classes like Data Analysis and so on.
 
+### Social Psychology tiny blog
+
+- [Psychological testing](https://dstsimokha.github.io/Social-Psychology)
+
 ### Data Analysis notes
 
 - [DA2020](https://dstsimokha.github.io/da2020/)
