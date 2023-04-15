@@ -1,10 +1,4 @@
-Just pressing any keys to continue learning data analysis.  
-Bash, SQL, R & Python, statistics, visualization, etc.  
+- [Visualisation Templates](https://dstsimokha.github.io/visuals/)
 
-- [Visuals](https://dstsimokha.github.io/visuals/)
-
-### University notes
-
-- [DA2020](https://dstsimokha.github.io/da2020/)
-- [DA2021](https://dstsimokha.github.io/da2021/)
-
+- [Data Analysis in Uni 2021](https://dstsimokha.github.io/da2021/)
+- [Data Analysis in Uni 2020](https://dstsimokha.github.io/da2020/)
